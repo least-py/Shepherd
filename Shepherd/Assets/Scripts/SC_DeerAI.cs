@@ -14,6 +14,8 @@ public class SC_DeerAI : MonoBehaviour
     public float runningSpeed = 1f;
     public Animator animator;
 
+    public GameObject babySheep;
+
     //Trigger collider that represents the awareness area
     SphereCollider c; 
     //NavMesh Agent
@@ -50,6 +52,8 @@ public class SC_DeerAI : MonoBehaviour
         currentState = AIState.Idle;
         actionTimer = Random.Range(0.1f, 2.0f);
         SwitchAnimationState(currentState);
+
+        GiveBirth();
     }
 
     // Update is called once per frame
@@ -202,6 +206,11 @@ public class SC_DeerAI : MonoBehaviour
         }
 
         switchAction = false;
+    }
+
+    void GiveBirth()
+    {
+        Instantiate(babySheep, transform.position, transform.rotation);
     }
 
     bool DoneReachingDestination()

@@ -236,6 +236,9 @@ MonoBehaviour:
   walkingSpeed: 0.2
   runningSpeed: 1
   animator: {fileID: 148715703}
+  babySheep: {fileID: 622502279744351156, guid: 5d9bea8aaeaa17b46889af04c5a07f0e,
+    type: 3}
+  range: 0.8
   multiplier: 0.5
 --- !u!65 &148715699
 BoxCollider:
