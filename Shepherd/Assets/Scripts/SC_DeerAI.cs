@@ -65,32 +65,33 @@ public class SC_DeerAI : MonoBehaviour
             switchAction = true;
         }
 
+        if (Input.GetMouseButtonDown(1) && enemy)
+        {
+            agent.SetDestination(RandomNavSphere(transform.position, Random.Range(1, 2.4f)));
+            currentState = AIState.Running;
+            SwitchAnimationState(currentState);
+        }
+
+
         if (currentState == AIState.Idle)
         {
             if(switchAction)
             {
-                if (enemy)
-                {
-                    //Run away
-                    agent.SetDestination(RandomNavSphere(transform.position, Random.Range(1, 2.4f)));
-                    currentState = AIState.Running;
-                    SwitchAnimationState(currentState);
-                }
-                else
-                {
-                    //No enemies nearby, start eating
-                    actionTimer = Random.Range(5, 9);
+                
+                        //No enemies nearby, start eating
+                        actionTimer = Random.Range(5, 9);
 
-                    currentState = AIState.Eating;
-                    SwitchAnimationState(currentState);
+                        currentState = AIState.Eating;
+                        SwitchAnimationState(currentState);
 
-                    //Keep last 5 Idle positions for future reference
-                    previousIdlePoints.Add(transform.position);
-                    if (previousIdlePoints.Count > 5)
-                    {
-                        previousIdlePoints.RemoveAt(0);
-                    }
-                }
+                        //Keep last 5 Idle positions for future reference
+                        previousIdlePoints.Add(transform.position);
+                        if (previousIdlePoints.Count > 5)
+                        {
+                            previousIdlePoints.RemoveAt(0);
+                        }
+                    
+                
             }
         }
         else if (currentState == AIState.Walking)
@@ -123,80 +124,81 @@ public class SC_DeerAI : MonoBehaviour
             //Set NavMesh Agent Speed
             agent.speed = runningSpeed;
 
-            //Run away
-            if (enemy)
+            //Check if we've reached the destination then stop running
+            if (DoneReachingDestination())
             {
-                if (reverseFlee)
-                {
-                    if (DoneReachingDestination() && timeStuck < 0)
-                    {
-                        reverseFlee = false;
-                    }
-                    else
-                    {
-                        timeStuck -= Time.deltaTime;
-                    }
-                }
-                else
-                {
-                    Vector3 runTo = transform.position + ((transform.position - enemy.position) * multiplier);
-                    distance = (transform.position - enemy.position).sqrMagnitude/4;
+                actionTimer = Random.Range(1.4f, 3.4f);
+                currentState = AIState.Eating;
+                SwitchAnimationState(AIState.Idle);
+             }
 
-                    //Find the closest NavMesh edge
-                    NavMeshHit hit;
-                    if (NavMesh.FindClosestEdge(transform.position, out hit, NavMesh.AllAreas))
+                    if (reverseFlee)
                     {
-                        closestEdge = hit.position;
-                        distanceToEdge = hit.distance;
-                        //Debug.DrawLine(transform.position, closestEdge, Color.red);
-                    }
-
-                    if (distanceToEdge < 1f)
-                    {
-                        if(timeStuck > 1.5f)
+                        if (DoneReachingDestination() && timeStuck < 0)
                         {
-                            if(previousIdlePoints.Count > 0)
-                            {
-                                runTo = previousIdlePoints[Random.Range(0, previousIdlePoints.Count - 1)];
-                                reverseFlee = true;
-                            } 
+                            reverseFlee = false;
                         }
                         else
                         {
-                            timeStuck += Time.deltaTime;
+                            timeStuck -= Time.deltaTime;
                         }
-                    }
-
-                    if (distance < range)
-                    {
-                        agent.SetDestination(runTo);
                     }
                     else
                     {
-                        enemy = null;
+                        if (enemy)
+                        {
+                            Vector3 runTo = transform.position + ((transform.position - enemy.position) * multiplier);
+                            distance = (transform.position - enemy.position).sqrMagnitude / 4;
+
+                            //Find the closest NavMesh edge
+                            NavMeshHit hit;
+                            if (NavMesh.FindClosestEdge(transform.position, out hit, NavMesh.AllAreas))
+                            {
+                                closestEdge = hit.position;
+                                distanceToEdge = hit.distance;
+                                //Debug.DrawLine(transform.position, closestEdge, Color.red);
+                            }
+
+                            if (distanceToEdge < 1f)
+                            {
+                                if (timeStuck > 1.5f)
+                                {
+                                    if (previousIdlePoints.Count > 0)
+                                    {
+                                        runTo = previousIdlePoints[Random.Range(0, previousIdlePoints.Count - 1)];
+                                        reverseFlee = true;
+                                    }
+                                }
+                                else
+                                {
+                                    timeStuck += Time.deltaTime;
+                                }
+                            }
+
+                            if (distance < range)
+                            {
+                                agent.SetDestination(runTo);
+                            }
+                            else
+                            {
+                                enemy = null;
+                            }
+                        }
+                     }
+
+                    //Temporarily switch to Idle if the Agent stopped
+                    if (agent.velocity.sqrMagnitude < 0.1f * 0.1f)
+                    {
+                        SwitchAnimationState(AIState.Idle);
                     }
-                }
+                    else
+                    {
+                        SwitchAnimationState(AIState.Running);
+                    }
                 
-                //Temporarily switch to Idle if the Agent stopped
-                if(agent.velocity.sqrMagnitude < 0.1f * 0.1f)
-                {
-                    SwitchAnimationState(AIState.Idle);
-                }
-                else
-                {
-                    SwitchAnimationState(AIState.Running);
-                }
-            }
-            else
-            {
-                //Check if we've reached the destination then stop running
-                if (DoneReachingDestination())
-                {
-                    actionTimer = Random.Range(1.4f, 3.4f);
-                    currentState = AIState.Eating;
-                    SwitchAnimationState(AIState.Idle);
-                }
-            }
+                    
+                
+            
         }
 
         switchAction = false;
