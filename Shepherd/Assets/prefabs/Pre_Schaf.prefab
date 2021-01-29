@@ -17,8 +17,8 @@ GameObject:
   - component: {fileID: 622502279744351154}
   - component: {fileID: 3525284827222519725}
   m_Layer: 0
-  m_Name: Schaf
-  m_TagString: Untagged
+  m_Name: Pre_Schaf
+  m_TagString: Sheep
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -110,10 +110,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentState: 3
-  awarenessArea: 40
-  walkingSpeed: 0.2
-  runningSpeed: 1
+  awarenessArea: 45
+  walkingSpeed: 0.3
+  runningSpeed: 1.5
   animator: {fileID: 622502279744351154}
+  range: 1
   multiplier: 0.5
 --- !u!195 &622502279744351165
 NavMeshAgent:

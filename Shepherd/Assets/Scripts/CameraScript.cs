@@ -11,8 +11,6 @@ public class CameraScript : MonoBehaviour
     private float yaw = 0.0f;
     private float pitch = 0.0f;
 
-
-
     // Use this for initialization
     void Start()
     {

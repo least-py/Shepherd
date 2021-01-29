@@ -10,8 +10,8 @@ public class SC_DeerAI : MonoBehaviour
     public enum AIState { Idle, Walking, Eating, Running }
     public AIState currentState = AIState.Idle;
     public int awarenessArea = 15; //How far the deer should detect the enemy
-    public float walkingSpeed = 3.5f;
-    public float runningSpeed = 7f;
+    public float walkingSpeed = 0.3f;
+    public float runningSpeed = 1f;
     public Animator animator;
 
     //Trigger collider that represents the awareness area
@@ -22,7 +22,7 @@ public class SC_DeerAI : MonoBehaviour
     bool switchAction = false;
     float actionTimer = 0; //Timer duration till the next action
     Transform enemy;
-    float range = 2; //How far the Deer have to run to resume the usual activities
+    public float range = 0.8f; //How far the Deer have to run to resume the usual activities
     public float multiplier = 0.5f;
     bool reverseFlee = false; //In case the AI is stuck, send it to one of the original Idle points
 
