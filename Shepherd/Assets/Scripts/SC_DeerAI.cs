@@ -23,7 +23,7 @@ public class SC_DeerAI : MonoBehaviour
     float actionTimer = 0; //Timer duration till the next action
     Transform enemy;
     float range = 2; //How far the Deer have to run to resume the usual activities
-    float multiplier = 1;
+    public float multiplier = 0.5f;
     bool reverseFlee = false; //In case the AI is stuck, send it to one of the original Idle points
 
     //Detect NavMesh edges to detect whether the AI is stuck
@@ -167,7 +167,7 @@ public class SC_DeerAI : MonoBehaviour
                         }
                     }
 
-                    if (distance < range * range)
+                    if (distance < range)
                     {
                         agent.SetDestination(runTo);
                     }
