@@ -15,14 +15,14 @@ public class SC_DeerAI : MonoBehaviour
     public Animator animator;
 
     //Trigger collider that represents the awareness area
-    SphereCollider c;
+    SphereCollider c; 
     //NavMesh Agent
     NavMeshAgent agent;
 
     bool switchAction = false;
     float actionTimer = 0; //Timer duration till the next action
     Transform enemy;
-    float range = 20; //How far the Deer have to run to resume the usual activities
+    float range = 2; //How far the Deer have to run to resume the usual activities
     float multiplier = 1;
     bool reverseFlee = false; //In case the AI is stuck, send it to one of the original Idle points
 
@@ -33,7 +33,7 @@ public class SC_DeerAI : MonoBehaviour
     //How long the AI has been near the edge of NavMesh, if too long, send it to one of the random previousIdlePoints
     float timeStuck = 0;
     //Store previous idle points for reference
-    List<Vector3> previousIdlePoints = new List<Vector3>();
+    List<Vector3> previousIdlePoints = new List<Vector3>(); 
 
     // Start is called before the first frame update
     void Start()
@@ -67,7 +67,7 @@ public class SC_DeerAI : MonoBehaviour
 
         if (currentState == AIState.Idle)
         {
-            if (switchAction)
+            if(switchAction)
             {
                 if (enemy)
                 {
@@ -79,7 +79,7 @@ public class SC_DeerAI : MonoBehaviour
                 else
                 {
                     //No enemies nearby, start eating
-                    actionTimer = Random.Range(14, 22);
+                    actionTimer = Random.Range(5, 9);
 
                     currentState = AIState.Eating;
                     SwitchAnimationState(currentState);
@@ -109,7 +109,7 @@ public class SC_DeerAI : MonoBehaviour
             if (switchAction)
             {
                 //Wait for current animation to finish playing
-                if (!animator || animator.GetCurrentAnimatorStateInfo(0).normalizedTime - Mathf.Floor(animator.GetCurrentAnimatorStateInfo(0).normalizedTime) > 0.99f)
+                if(!animator || animator.GetCurrentAnimatorStateInfo(0).normalizedTime - Mathf.Floor(animator.GetCurrentAnimatorStateInfo(0).normalizedTime) > 0.99f)
                 {
                     //Walk to another random destination
                     agent.destination = RandomNavSphere(transform.position, Random.Range(3, 7));
@@ -140,7 +140,7 @@ public class SC_DeerAI : MonoBehaviour
                 else
                 {
                     Vector3 runTo = transform.position + ((transform.position - enemy.position) * multiplier);
-                    distance = (transform.position - enemy.position).sqrMagnitude;
+                    distance = (transform.position - enemy.position).sqrMagnitude/4;
 
                     //Find the closest NavMesh edge
                     NavMeshHit hit;
@@ -153,13 +153,13 @@ public class SC_DeerAI : MonoBehaviour
 
                     if (distanceToEdge < 1f)
                     {
-                        if (timeStuck > 1.5f)
+                        if(timeStuck > 1.5f)
                         {
-                            if (previousIdlePoints.Count > 0)
+                            if(previousIdlePoints.Count > 0)
                             {
                                 runTo = previousIdlePoints[Random.Range(0, previousIdlePoints.Count - 1)];
                                 reverseFlee = true;
-                            }
+                            } 
                         }
                         else
                         {
@@ -176,9 +176,9 @@ public class SC_DeerAI : MonoBehaviour
                         enemy = null;
                     }
                 }
-
+                
                 //Temporarily switch to Idle if the Agent stopped
-                if (agent.velocity.sqrMagnitude < 0.1f * 0.1f)
+                if(agent.velocity.sqrMagnitude < 0.1f * 0.1f)
                 {
                     SwitchAnimationState(AIState.Idle);
                 }
