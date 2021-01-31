@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: 06b958cb8333f334584b4af7d9391117
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2328508783155783149
+    second: wolf_run_sheet_609x416_0
+  - first:
+      213: -2281334351022396936
+    second: wolf_run_sheet_609x416_1
+  - first:
+      213: 4013719135953962802
+    second: wolf_run_sheet_609x416_2
+  - first:
+      213: -6997135835027264565
+    second: wolf_run_sheet_609x416_3
+  - first:
+      213: -5333120559010373789
+    second: wolf_run_sheet_609x416_4
+  - first:
+      213: 4840642279094054756
+    second: wolf_run_sheet_609x416_5
+  - first:
+      213: 6939683199682616530
+    second: wolf_run_sheet_609x416_6
+  - first:
+      213: -1417040131821933492
+    second: wolf_run_sheet_609x416_7
+  - first:
+      213: -3273651282305661743
+    second: wolf_run_sheet_609x416_8
+  - first:
+      213: -1983801362138499454
+    second: wolf_run_sheet_609x416_9
+  - first:
+      213: 6433484210279904485
+    second: wolf_run_sheet_609x416_10
+  - first:
+      213: 9068387485615624789
+    second: wolf_run_sheet_609x416_11
+  - first:
+      213: -3431644915343235129
+    second: wolf_run_sheet_609x416_12
+  - first:
+      213: 469810850000718829
+    second: wolf_run_sheet_609x416_13
+  - first:
+      213: -5162633627252575093
+    second: wolf_run_sheet_609x416_14
+  - first:
+      213: 2968368454583082432
+    second: wolf_run_sheet_609x416_15
+  - first:
+      213: -5757804224942675406
+    second: wolf_run_sheet_609x416_16
+  - first:
+      213: -8666901575101719588
+    second: wolf_run_sheet_609x416_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wolf_run_sheet_609x416_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1632
+        width: 609
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a5f9349997fafd0800000000000000
+      internalID: -2328508783155783149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf_run_sheet_609x416_1
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1632
+        width: 609
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9e969ae721750e0800000000000000
+      internalID: -2281334351022396936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf_run_sheet_609x416_2
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1632
+        width: 609
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23749bed94893b730800000000000000
+      internalID: 4013719135953962802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf_run_sheet_609x416_3
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 1632
+        width: 609
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb2b0cc70e25ee90800000000000000
+      internalID: -6997135835027264565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf_run_sheet_609x416_4
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 1632
+        width: 609
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f9adf8b13fcf5b0800000000000000
+      internalID: -5333120559010373789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf_run_sheet_609x416_5
+      rect:
+        serializedVersion: 2
+        x: 3045
+        y: 1632
+        width: 609
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f632a818a6d2340800000000000000
+      internalID: 4840642279094054756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf_run_sheet_609x416_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 609
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc14d22a15be4060800000000000000
+      internalID: 6939683199682616530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf_run_sheet_609x416_7
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1216
+        width: 609
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ce7460289a55ce0800000000000000
+      internalID: -1417040131821933492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf_run_sheet_609x416_8
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1216
+        width: 609
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d44ba7d087a192d0800000000000000
+      internalID: -3273651282305661743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf_run_sheet_609x416_9
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 1216
+        width: 609
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2867cc8fb2f1874e0800000000000000
+      internalID: -1983801362138499454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf_run_sheet_609x416_10
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 1216
+        width: 609
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e471dd9dc3584950800000000000000
+      internalID: 6433484210279904485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf_run_sheet_609x416_11
+      rect:
+        serializedVersion: 2
+        x: 3045
+        y: 1216
+        width: 609
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55297bd2f5269dd70800000000000000
+      internalID: 9068387485615624789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf_run_sheet_609x416_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 609
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7e0b191295060d0800000000000000
+      internalID: -3431644915343235129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf_run_sheet_609x416_13
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 800
+        width: 609
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debcae99a7a158600800000000000000
+      internalID: 469810850000718829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf_run_sheet_609x416_14
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 800
+        width: 609
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84bf1e9114aa58b0800000000000000
+      internalID: -5162633627252575093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf_run_sheet_609x416_15
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 800
+        width: 609
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd56e1e163c13920800000000000000
+      internalID: 2968368454583082432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf_run_sheet_609x416_16
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 800
+        width: 609
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a6c06409b2810b0800000000000000
+      internalID: -5757804224942675406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf_run_sheet_609x416_17
+      rect:
+        serializedVersion: 2
+        x: 3045
+        y: 800
+        width: 609
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbd9c8cfeaf8b780800000000000000
+      internalID: -8666901575101719588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0776e38895ae85e4dba14cd34290b99f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

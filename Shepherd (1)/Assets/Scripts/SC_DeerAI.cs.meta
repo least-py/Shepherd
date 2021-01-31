@@ -3,7 +3,11 @@ guid: 3f1395cfd4187b44a9207751874ff4ea
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - animator: {instanceID: 0}
+  - babySheep: {fileID: 622502279744351156, guid: 5d9bea8aaeaa17b46889af04c5a07f0e,
+      type: 3}
+  - sheep: {fileID: 622502279744351156, guid: 5d9bea8aaeaa17b46889af04c5a07f0e, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

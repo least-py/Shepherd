@@ -6,7 +6,12 @@ TagManager:
   tags:
   - Sheep
   - Die
-  - Die_10Sec
+  - Sheepsprite
+  - Enemy
+  - MainMenu
+  - GameUI
+  - MenuBackgroundCamera
+  - StartConditions
   layers:
   - Default
   - TransparentFX

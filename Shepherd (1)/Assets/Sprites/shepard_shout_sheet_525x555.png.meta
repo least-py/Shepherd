@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: f244af4d8d06a7f47aec8ff418f112cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7008715326268358153
+    second: shepard_shout_sheet_525x555_0
+  - first:
+      213: -7645922449120559516
+    second: shepard_shout_sheet_525x555_1
+  - first:
+      213: -6249942638327477413
+    second: shepard_shout_sheet_525x555_2
+  - first:
+      213: -437401209122437601
+    second: shepard_shout_sheet_525x555_3
+  - first:
+      213: -3933421191755243073
+    second: shepard_shout_sheet_525x555_4
+  - first:
+      213: 121743687396597689
+    second: shepard_shout_sheet_525x555_5
+  - first:
+      213: -8145344935167664517
+    second: shepard_shout_sheet_525x555_6
+  - first:
+      213: -4916410493031339606
+    second: shepard_shout_sheet_525x555_7
+  - first:
+      213: -5328195920378151686
+    second: shepard_shout_sheet_525x555_8
+  - first:
+      213: 3686110814517618981
+    second: shepard_shout_sheet_525x555_9
+  - first:
+      213: 8258397917615408861
+    second: shepard_shout_sheet_525x555_10
+  - first:
+      213: -4020577805915092689
+    second: shepard_shout_sheet_525x555_11
+  - first:
+      213: -794947972592734642
+    second: shepard_shout_sheet_525x555_12
+  - first:
+      213: -3215334321979744968
+    second: shepard_shout_sheet_525x555_13
+  - first:
+      213: 7239364382412118122
+    second: shepard_shout_sheet_525x555_14
+  - first:
+      213: -4335049638379197237
+    second: shepard_shout_sheet_525x555_15
+  - first:
+      213: -4357864487949724106
+    second: shepard_shout_sheet_525x555_16
+  - first:
+      213: 3762915122483615650
+    second: shepard_shout_sheet_525x555_17
+  - first:
+      213: -8031713848050115845
+    second: shepard_shout_sheet_525x555_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shepard_shout_sheet_525x555_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1493
+        width: 525
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ebf0a9475f34160800000000000000
+      internalID: 7008715326268358153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_shout_sheet_525x555_1
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1493
+        width: 525
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46efbf7da0a34e590800000000000000
+      internalID: -7645922449120559516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_shout_sheet_525x555_2
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1493
+        width: 525
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b4ce7b84eb349a0800000000000000
+      internalID: -6249942638327477413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_shout_sheet_525x555_3
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1493
+        width: 525
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f164ee1fae90ee9f0800000000000000
+      internalID: -437401209122437601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_shout_sheet_525x555_4
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1493
+        width: 525
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb16f69244ea969c0800000000000000
+      internalID: -3933421191755243073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_shout_sheet_525x555_5
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 1493
+        width: 525
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf9be81d3580b100800000000000000
+      internalID: 121743687396597689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_shout_sheet_525x555_6
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 1493
+        width: 525
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7edd46ffebe5fe80800000000000000
+      internalID: -8145344935167664517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_shout_sheet_525x555_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 938
+        width: 525
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa92dd074b665cbb0800000000000000
+      internalID: -4916410493031339606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_shout_sheet_525x555_8
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 938
+        width: 525
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcbc285a027e06b0800000000000000
+      internalID: -5328195920378151686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_shout_sheet_525x555_9
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 938
+        width: 525
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5296c068142b72330800000000000000
+      internalID: 3686110814517618981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_shout_sheet_525x555_10
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 938
+        width: 525
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6ca45b629bb9270800000000000000
+      internalID: 8258397917615408861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_shout_sheet_525x555_11
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 938
+        width: 525
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f298c9699c90438c0800000000000000
+      internalID: -4020577805915092689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_shout_sheet_525x555_12
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 938
+        width: 525
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e61bed707c7f4f0800000000000000
+      internalID: -794947972592734642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_shout_sheet_525x555_13
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 938
+        width: 525
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d96404876d063d0800000000000000
+      internalID: -3215334321979744968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_shout_sheet_525x555_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 525
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a681a4dcc83677460800000000000000
+      internalID: 7239364382412118122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_shout_sheet_525x555_15
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 383
+        width: 525
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcce8bc625fc6d3c0800000000000000
+      internalID: -4335049638379197237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_shout_sheet_525x555_16
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 383
+        width: 525
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63697705651c583c0800000000000000
+      internalID: -4357864487949724106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_shout_sheet_525x555_17
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 383
+        width: 525
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7d49bfd5f883430800000000000000
+      internalID: 3762915122483615650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_shout_sheet_525x555_18
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 383
+        width: 525
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa136d1fce998090800000000000000
+      internalID: -8031713848050115845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bc57e903089b8964ea48185ca65efd94
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

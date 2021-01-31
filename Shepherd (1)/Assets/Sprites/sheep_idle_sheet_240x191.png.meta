@@ -1,0 +1,968 @@
+fileFormatVersion: 2
+guid: b97667a36319afa4cbaa9f82f3037e00
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 964257765222299655
+    second: sheep_idle_sheet_240x191_0
+  - first:
+      213: 1986566627425903109
+    second: sheep_idle_sheet_240x191_1
+  - first:
+      213: -3461421923792397349
+    second: sheep_idle_sheet_240x191_2
+  - first:
+      213: 6563517655758899688
+    second: sheep_idle_sheet_240x191_3
+  - first:
+      213: -4737053216623514953
+    second: sheep_idle_sheet_240x191_4
+  - first:
+      213: 9027670123703442552
+    second: sheep_idle_sheet_240x191_5
+  - first:
+      213: 8230001629222196351
+    second: sheep_idle_sheet_240x191_6
+  - first:
+      213: 1436637453190900493
+    second: sheep_idle_sheet_240x191_7
+  - first:
+      213: 7222887828407908343
+    second: sheep_idle_sheet_240x191_8
+  - first:
+      213: 9041670866396177905
+    second: sheep_idle_sheet_240x191_9
+  - first:
+      213: 2043557210779893336
+    second: sheep_idle_sheet_240x191_10
+  - first:
+      213: 6166682444679739730
+    second: sheep_idle_sheet_240x191_11
+  - first:
+      213: -8885742778425400195
+    second: sheep_idle_sheet_240x191_12
+  - first:
+      213: -7346849653263840336
+    second: sheep_idle_sheet_240x191_13
+  - first:
+      213: -5468128489140821653
+    second: sheep_idle_sheet_240x191_14
+  - first:
+      213: 5129210287634370474
+    second: sheep_idle_sheet_240x191_15
+  - first:
+      213: -871079532339789633
+    second: sheep_idle_sheet_240x191_16
+  - first:
+      213: -82819810969851441
+    second: sheep_idle_sheet_240x191_17
+  - first:
+      213: -3029156115339238850
+    second: sheep_idle_sheet_240x191_18
+  - first:
+      213: -2473672306757796110
+    second: sheep_idle_sheet_240x191_19
+  - first:
+      213: -9215039825863686650
+    second: sheep_idle_sheet_240x191_20
+  - first:
+      213: 6934499066371661320
+    second: sheep_idle_sheet_240x191_21
+  - first:
+      213: -3448967200779967112
+    second: sheep_idle_sheet_240x191_22
+  - first:
+      213: 3517250739761727735
+    second: sheep_idle_sheet_240x191_23
+  - first:
+      213: 3194407410833652758
+    second: sheep_idle_sheet_240x191_24
+  - first:
+      213: -7014198437339444225
+    second: sheep_idle_sheet_240x191_25
+  - first:
+      213: 519150882259377620
+    second: sheep_idle_sheet_240x191_26
+  - first:
+      213: 8463921289569253627
+    second: sheep_idle_sheet_240x191_27
+  - first:
+      213: 8276231445019728905
+    second: sheep_idle_sheet_240x191_28
+  - first:
+      213: -8303126923223724088
+    second: sheep_idle_sheet_240x191_29
+  - first:
+      213: -4276386275552347335
+    second: sheep_idle_sheet_240x191_30
+  - first:
+      213: 3242787552234972802
+    second: sheep_idle_sheet_240x191_31
+  - first:
+      213: -6690316709633833420
+    second: sheep_idle_sheet_240x191_32
+  - first:
+      213: 50130886087592801
+    second: sheep_idle_sheet_240x191_33
+  - first:
+      213: 6944163598949175118
+    second: sheep_idle_sheet_240x191_34
+  - first:
+      213: -8844584368525563209
+    second: sheep_idle_sheet_240x191_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sheep_idle_sheet_240x191_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 833
+        width: 240
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708bcff145bb16d00800000000000000
+      internalID: 964257765222299655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_idle_sheet_240x191_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 833
+        width: 240
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502ed5682d3b19b10800000000000000
+      internalID: 1986566627425903109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_idle_sheet_240x191_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 833
+        width: 240
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbda96891f86ffc0800000000000000
+      internalID: -3461421923792397349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_idle_sheet_240x191_3
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 833
+        width: 240
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9838c688c461b50800000000000000
+      internalID: 6563517655758899688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_idle_sheet_240x191_4
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 833
+        width: 240
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7baa80d823b924eb0800000000000000
+      internalID: -4737053216623514953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_idle_sheet_240x191_5
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 833
+        width: 240
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c10c8952ab84d70800000000000000
+      internalID: 9027670123703442552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_idle_sheet_240x191_6
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 833
+        width: 240
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74dcaa90e6d63270800000000000000
+      internalID: 8230001629222196351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_idle_sheet_240x191_7
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 833
+        width: 240
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b277ce626ffe310800000000000000
+      internalID: 1436637453190900493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_idle_sheet_240x191_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 642
+        width: 240
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7feb0263adc3460800000000000000
+      internalID: 7222887828407908343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_idle_sheet_240x191_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 642
+        width: 240
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5ea878fb77a7d70800000000000000
+      internalID: 9041670866396177905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_idle_sheet_240x191_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 642
+        width: 240
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e39bab47c2c5c10800000000000000
+      internalID: 2043557210779893336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_idle_sheet_240x191_11
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 642
+        width: 240
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259f5cdc205749550800000000000000
+      internalID: 6166682444679739730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_idle_sheet_240x191_12
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 642
+        width: 240
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74267e85008fa480800000000000000
+      internalID: -8885742778425400195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_idle_sheet_240x191_13
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 642
+        width: 240
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbc1076a2fba0a90800000000000000
+      internalID: -7346849653263840336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_idle_sheet_240x191_14
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 642
+        width: 240
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61619a4c1e4d14b0800000000000000
+      internalID: -5468128489140821653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_idle_sheet_240x191_15
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 642
+        width: 240
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafc9b4b49d9e2740800000000000000
+      internalID: 5129210287634370474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_idle_sheet_240x191_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 451
+        width: 240
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb006cfc7cd49e3f0800000000000000
+      internalID: -871079532339789633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_idle_sheet_240x191_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 451
+        width: 240
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9e6ca12d3c9def0800000000000000
+      internalID: -82819810969851441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_idle_sheet_240x191_18
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 451
+        width: 240
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32a000ff8646f5d0800000000000000
+      internalID: -3029156115339238850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_idle_sheet_240x191_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 451
+        width: 240
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fefaf0a420cbadd0800000000000000
+      internalID: -2473672306757796110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_idle_sheet_240x191_20
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 451
+        width: 240
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606415c0a1a9d1080800000000000000
+      internalID: -9215039825863686650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_idle_sheet_240x191_21
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 451
+        width: 240
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e5c5a092a4c3060800000000000000
+      internalID: 6934499066371661320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_idle_sheet_240x191_22
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 451
+        width: 240
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8756983ba9ec220d0800000000000000
+      internalID: -3448967200779967112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_idle_sheet_240x191_23
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 451
+        width: 240
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f84a71a9e8cfc030800000000000000
+      internalID: 3517250739761727735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_idle_sheet_240x191_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 240
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c7d9e8d90d45c20800000000000000
+      internalID: 3194407410833652758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_idle_sheet_240x191_25
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 260
+        width: 240
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb484e1faf88ae90800000000000000
+      internalID: -7014198437339444225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_idle_sheet_240x191_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 260
+        width: 240
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd96e11af4643700800000000000000
+      internalID: 519150882259377620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_idle_sheet_240x191_27
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 260
+        width: 240
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf834afa193e57570800000000000000
+      internalID: 8463921289569253627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_idle_sheet_240x191_28
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 260
+        width: 240
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c915f56a41bd270800000000000000
+      internalID: 8276231445019728905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_idle_sheet_240x191_29
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 260
+        width: 240
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf84402e0e55cc80800000000000000
+      internalID: -8303126923223724088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_idle_sheet_240x191_30
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 260
+        width: 240
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bb853f65937a4c0800000000000000
+      internalID: -4276386275552347335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_idle_sheet_240x191_31
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 260
+        width: 240
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28626050912b00d20800000000000000
+      internalID: 3242787552234972802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_idle_sheet_240x191_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 240
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4364a6f36683723a0800000000000000
+      internalID: -6690316709633833420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_idle_sheet_240x191_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 69
+        width: 240
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bc68976c912b000800000000000000
+      internalID: 50130886087592801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_idle_sheet_240x191_34
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 69
+        width: 240
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f40916000ae5060800000000000000
+      internalID: 6944163598949175118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_idle_sheet_240x191_35
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 69
+        width: 240
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7baaf00a069b14580800000000000000
+      internalID: -8844584368525563209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 172315bdc6f9ec0439b5958c6ed047c0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

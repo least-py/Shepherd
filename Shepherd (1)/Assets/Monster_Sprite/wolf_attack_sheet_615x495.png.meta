@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: 505eeb92bfd9b584c98ec964ca129657
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3108624359169085360
+    second: wolf_attack_sheet_615x495_0
+  - first:
+      213: 6444176013399547284
+    second: wolf_attack_sheet_615x495_1
+  - first:
+      213: 2566927519427356953
+    second: wolf_attack_sheet_615x495_2
+  - first:
+      213: -3755674444070785926
+    second: wolf_attack_sheet_615x495_3
+  - first:
+      213: 4826015495941131570
+    second: wolf_attack_sheet_615x495_4
+  - first:
+      213: -7425580171755987473
+    second: wolf_attack_sheet_615x495_5
+  - first:
+      213: 8174070935481958249
+    second: wolf_attack_sheet_615x495_6
+  - first:
+      213: -5241619645696443411
+    second: wolf_attack_sheet_615x495_7
+  - first:
+      213: -1850996295923428523
+    second: wolf_attack_sheet_615x495_8
+  - first:
+      213: -3657283280224877800
+    second: wolf_attack_sheet_615x495_9
+  - first:
+      213: -2923861513963965616
+    second: wolf_attack_sheet_615x495_10
+  - first:
+      213: -2319558737821441750
+    second: wolf_attack_sheet_615x495_11
+  - first:
+      213: -2609844307315827929
+    second: wolf_attack_sheet_615x495_12
+  - first:
+      213: 4431128950047786913
+    second: wolf_attack_sheet_615x495_13
+  - first:
+      213: 3921951805961912323
+    second: wolf_attack_sheet_615x495_14
+  - first:
+      213: -848822194754855734
+    second: wolf_attack_sheet_615x495_15
+  - first:
+      213: -6734366970657471338
+    second: wolf_attack_sheet_615x495_16
+  - first:
+      213: 5847312840295326516
+    second: wolf_attack_sheet_615x495_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wolf_attack_sheet_615x495_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1553
+        width: 615
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050b9939d92fbd4d0800000000000000
+      internalID: -3108624359169085360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf_attack_sheet_615x495_1
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1553
+        width: 615
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49dd5c401ff4e6950800000000000000
+      internalID: 6444176013399547284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf_attack_sheet_615x495_2
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1553
+        width: 615
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91964af8afe8f9320800000000000000
+      internalID: 2566927519427356953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf_attack_sheet_615x495_3
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1553
+        width: 615
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ce525ddf921ebc0800000000000000
+      internalID: -3755674444070785926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf_attack_sheet_615x495_4
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 1553
+        width: 615
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d0a14368379f240800000000000000
+      internalID: 4826015495941131570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf_attack_sheet_615x495_5
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 1553
+        width: 615
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feddc4b1d2a03f890800000000000000
+      internalID: -7425580171755987473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf_attack_sheet_615x495_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1058
+        width: 615
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f3f3e2532207170800000000000000
+      internalID: 8174070935481958249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf_attack_sheet_615x495_7
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1058
+        width: 615
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debfd8a14b60247b0800000000000000
+      internalID: -5241619645696443411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf_attack_sheet_615x495_8
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1058
+        width: 615
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5539be40da0ff46e0800000000000000
+      internalID: -1850996295923428523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf_attack_sheet_615x495_9
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1058
+        width: 615
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8138837db38be3dc0800000000000000
+      internalID: -3657283280224877800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf_attack_sheet_615x495_10
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 1058
+        width: 615
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053fdbfb17b5c67d0800000000000000
+      internalID: -2923861513963965616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf_attack_sheet_615x495_11
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 1058
+        width: 615
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21ef741e954fcfd0800000000000000
+      internalID: -2319558737821441750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf_attack_sheet_615x495_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 563
+        width: 615
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b5d571e68f7cbd0800000000000000
+      internalID: -2609844307315827929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf_attack_sheet_615x495_13
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 563
+        width: 615
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a74c8d8d488e7d30800000000000000
+      internalID: 4431128950047786913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf_attack_sheet_615x495_14
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 563
+        width: 615
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300cf8c53629d6630800000000000000
+      internalID: 3921951805961912323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf_attack_sheet_615x495_15
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 563
+        width: 615
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc5b2c06b06834f0800000000000000
+      internalID: -848822194754855734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf_attack_sheet_615x495_16
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 563
+        width: 615
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69486de9be8ba82a0800000000000000
+      internalID: -6734366970657471338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf_attack_sheet_615x495_17
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 563
+        width: 615
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43322604c04d52150800000000000000
+      internalID: 5847312840295326516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f57012a1ca31f3b4a8e7a7014a3447b9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

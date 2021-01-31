@@ -7,17 +7,35 @@ using System.Collections.Generic;
 
 public class SC_DeerAI : MonoBehaviour
 {
-    public enum AIState { Idle, Walking, Eating, Running }
+    public enum AIState { Idle, Walking, Eating, Running, Panicing }
     public AIState currentState = AIState.Idle;
-    public int awarenessArea = 15; //How far the deer should detect the enemy
+    public float awarenessArea = 1.5f; //How far the deer should detect the enemy
     public float walkingSpeed = 0.3f;
     public float runningSpeed = 1f;
     public Animator animator;
 
     public GameObject babySheep;
     public int pregnantCounter = 0;
-    public int tappcounter = 0;
+    public float trappcounter = 10f;
     public bool trapped = false;
+    public int quicktimeevents = 10;
+    public int health = 10;
+
+
+
+    // PUBLIC FUCKING POSITION UND SCALING CHANGES
+
+    public Vector3 babysize = new Vector3(0.2f, 0.2f, 0.2f);
+    public Vector3 upscaling = new Vector3(0.1f, 0.1f, 0.1f);
+    public float upperbound = 0.2f;
+
+    public float yCorrection = 0.1f / 2;
+
+
+
+    List<string> quicktimekeys = new List<string> { "w", "a", "s", "d" };
+
+    public List<string> kombi = new List<string>();
 
     //Trigger collider that represents the awareness area
     SphereCollider c; 
@@ -38,11 +56,21 @@ public class SC_DeerAI : MonoBehaviour
     //How long the AI has been near the edge of NavMesh, if too long, send it to one of the random previousIdlePoints
     float timeStuck = 0;
     //Store previous idle points for reference
-    List<Vector3> previousIdlePoints = new List<Vector3>(); 
+    List<Vector3> previousIdlePoints = new List<Vector3>();
+
+    public SC_CharacterController player;
+    public Traps traps;
+
+    void Awake()
+    {
+        transform.localScale = babysize;
+        //transform.position = new Vector3(transform.position.x, yCorrection , transform.position.z);
+    }
 
     // Start is called before the first frame update
     void Start()
     {
+
         agent = GetComponent<NavMeshAgent>();
         agent.stoppingDistance = 0;
         agent.autoBraking = true;
@@ -52,15 +80,25 @@ public class SC_DeerAI : MonoBehaviour
         actionTimer = Random.Range(0.1f, 2.0f);
         SwitchAnimationState(currentState);
 
-        pregnantCounter = Random.Range(10, 25);
+        pregnantCounter = 2;
+            //Random.Range(10, 25);
+        player = FindObjectOfType<SC_CharacterController>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (trapped)
-        { 
-        
+        //transform.position = new Vector3(transform.position.x, yCorrection, transform.position.z);
+        if (traps == null)
+            trapped = false;
+
+        if (trapped) //Schaf in eine Falle gelaufen?
+        {
+            if (trappcounter > 0)           
+                trappcounter -= Time.deltaTime;  
+            else
+                Destroy(this.gameObject);
+
         }
         else
         {
@@ -68,7 +106,11 @@ public class SC_DeerAI : MonoBehaviour
             if (pregnantCounter == 0)
             {
                 pregnantCounter = Random.Range(25, 50);
+                yCorrection = babysize.y / 2.0f;
                 GiveBirth();
+                transform.localScale = babysize;
+                //transform.position = new Vector3(transform.position.x, yCorrection, transform.position.z);
+
             }
 
             //Wait for the next course of action
@@ -81,21 +123,20 @@ public class SC_DeerAI : MonoBehaviour
                 switchAction = true;
             }
 
-            if (Input.GetMouseButtonDown(1) && enemy)
+            if (Input.GetMouseButtonDown(1) && (Vector3.Distance(player.transform.position, transform.position) < awarenessArea))
             {
+                enemy = player.transform;
                 agent.SetDestination(RandomNavSphere(transform.position, Random.Range(1, 2.4f)));
                 currentState = AIState.Running;
                 SwitchAnimationState(currentState);
             }
 
-
             if (currentState == AIState.Idle)
             {
                 if (switchAction)
                 {
-
                     //No enemies nearby, start eating
-                    actionTimer = Random.Range(5, 9);
+                    actionTimer = Random.Range(3, 9);
 
                     currentState = AIState.Eating;
                     SwitchAnimationState(currentState);
@@ -106,9 +147,13 @@ public class SC_DeerAI : MonoBehaviour
                     {
                         previousIdlePoints.RemoveAt(0);
                     }
-
-
                 }
+            }else if (currentState == AIState.Panicing)
+            {
+                    actionTimer = Random.Range(1, 4);
+
+                    currentState = AIState.Eating;
+                    SwitchAnimationState(currentState);            
             }
             else if (currentState == AIState.Walking)
             {
@@ -124,12 +169,18 @@ public class SC_DeerAI : MonoBehaviour
             else if (currentState == AIState.Eating)
             {
 
-
                 if (switchAction)
                 {
                     //Wait for current animation to finish playing
                     if (!animator || animator.GetCurrentAnimatorStateInfo(0).normalizedTime - Mathf.Floor(animator.GetCurrentAnimatorStateInfo(0).normalizedTime) > 0.99f)
                     {
+                        if(transform.localScale.x <= upperbound)
+                        {
+                            transform.localScale += upscaling;
+                            yCorrection += (upscaling.y / 2);
+                            //transform.position = new Vector3(transform.position.x, yCorrection, transform.position.z);
+                        }
+
                         pregnantCounter--;
                         //Walk to another random destination
                         agent.destination = RandomNavSphere(transform.position, Random.Range(3, 7));
@@ -215,11 +266,7 @@ public class SC_DeerAI : MonoBehaviour
                     SwitchAnimationState(AIState.Running);
                 }
 
-
-
-
             }
-
             switchAction = false;
         }
     }
@@ -254,6 +301,7 @@ public class SC_DeerAI : MonoBehaviour
             animator.SetBool("isEating", state == AIState.Eating);
             animator.SetBool("isRunning", state == AIState.Running);
             animator.SetBool("isWalking", state == AIState.Walking);
+            animator.SetBool("isPanicing", state == AIState.Panicing);
         }
     }
 
@@ -270,23 +318,34 @@ public class SC_DeerAI : MonoBehaviour
         return navHit.position;
     }
 
-
-
     void OnTriggerEnter(Collider other)
     {
-        //Make sure the Player instance has a tag "Player"
-        if (other.CompareTag("Player"))
-        {
-            enemy = other.transform;
-
-            actionTimer = Random.Range(0.24f, 0.8f);
-            currentState = AIState.Idle;
-            SwitchAnimationState(currentState);
-        }
-        //Make sure the Player instance has a tag "Player"
+        Debug.Log("DeerAI OnTriggerEnter");
         if (other.CompareTag("Die"))
         {
-            Destroy(this.gameObject);
+            kombi = new List<string> {};
+
+            for (int i = 0; i < quicktimeevents; i++)
+                kombi.Add(quicktimekeys[Random.Range(0, 3)]);
+            
+
+            traps = other.GetComponent<Collider>().gameObject.GetComponent<Traps> ();
+            trappcounter = traps.trapptime;
+            trapped = true;
+            actionTimer = 0;
+            agent.destination = RandomNavSphere(transform.position, 0);
+            currentState = AIState.Panicing;
+            SwitchAnimationState(AIState.Panicing);
+        }
+    }
+
+    void TakeDamage(int damage)
+    {
+        health = health - damage;
+        Debug.Log(health);
+        if (health <= 0)
+        {
+            Destroy(gameObject);
         }
     }
 }

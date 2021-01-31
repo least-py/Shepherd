@@ -1,0 +1,680 @@
+fileFormatVersion: 2
+guid: d4ae973a40d728548b06c1fd8fc90c85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3328326664284596701
+    second: shepard_run_sheet_415x479_0
+  - first:
+      213: -6000609932363570718
+    second: shepard_run_sheet_415x479_1
+  - first:
+      213: -3815247379209613583
+    second: shepard_run_sheet_415x479_2
+  - first:
+      213: 474026702762313534
+    second: shepard_run_sheet_415x479_3
+  - first:
+      213: -6359017903225069260
+    second: shepard_run_sheet_415x479_4
+  - first:
+      213: -3131948675297772159
+    second: shepard_run_sheet_415x479_5
+  - first:
+      213: 3204029285004147302
+    second: shepard_run_sheet_415x479_6
+  - first:
+      213: -1592416158656891551
+    second: shepard_run_sheet_415x479_7
+  - first:
+      213: -2891708845390947229
+    second: shepard_run_sheet_415x479_8
+  - first:
+      213: 702041446827097383
+    second: shepard_run_sheet_415x479_9
+  - first:
+      213: 8307100553751114406
+    second: shepard_run_sheet_415x479_10
+  - first:
+      213: -1041986897740522079
+    second: shepard_run_sheet_415x479_11
+  - first:
+      213: 8789945298978986190
+    second: shepard_run_sheet_415x479_12
+  - first:
+      213: 6416354619253915713
+    second: shepard_run_sheet_415x479_13
+  - first:
+      213: -2765059875844188637
+    second: shepard_run_sheet_415x479_14
+  - first:
+      213: 1080883299890291912
+    second: shepard_run_sheet_415x479_15
+  - first:
+      213: 6287963982003053165
+    second: shepard_run_sheet_415x479_16
+  - first:
+      213: 5310787404998558212
+    second: shepard_run_sheet_415x479_17
+  - first:
+      213: -5714703525948908496
+    second: shepard_run_sheet_415x479_18
+  - first:
+      213: -380015078531860143
+    second: shepard_run_sheet_415x479_19
+  - first:
+      213: 1860478166692691361
+    second: shepard_run_sheet_415x479_20
+  - first:
+      213: -5397526534607816142
+    second: shepard_run_sheet_415x479_21
+  - first:
+      213: -5298294390212289406
+    second: shepard_run_sheet_415x479_22
+  - first:
+      213: -6181466930575175835
+    second: shepard_run_sheet_415x479_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shepard_run_sheet_415x479_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1569
+        width: 415
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3261bd678886fc1d0800000000000000
+      internalID: -3328326664284596701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_run_sheet_415x479_1
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1569
+        width: 415
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1e9c12f0d89bca0800000000000000
+      internalID: -6000609932363570718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_run_sheet_415x479_2
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1569
+        width: 415
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe88fff8b48d0bc0800000000000000
+      internalID: -3815247379209613583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_run_sheet_415x479_3
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1569
+        width: 415
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37823056c4149600800000000000000
+      internalID: 474026702762313534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_run_sheet_415x479_4
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 1569
+        width: 415
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431abe598ea30c7a0800000000000000
+      internalID: -6359017903225069260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_run_sheet_415x479_5
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 1569
+        width: 415
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18dfe1a06451984d0800000000000000
+      internalID: -3131948675297772159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_run_sheet_415x479_6
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 1569
+        width: 415
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66afe96b8aff67c20800000000000000
+      internalID: 3204029285004147302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_run_sheet_415x479_7
+      rect:
+        serializedVersion: 2
+        x: 2905
+        y: 1569
+        width: 415
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165f9a0d0f996e9e0800000000000000
+      internalID: -1592416158656891551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_run_sheet_415x479_8
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 1569
+        width: 415
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c1e9440269ed7d0800000000000000
+      internalID: -2891708845390947229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_run_sheet_415x479_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1090
+        width: 415
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dfabfe9f62eb900800000000000000
+      internalID: 702041446827097383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_run_sheet_415x479_10
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1090
+        width: 415
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a239c3d0ffb84370800000000000000
+      internalID: 8307100553751114406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_run_sheet_415x479_11
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1090
+        width: 415
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad909bef6e1a81f0800000000000000
+      internalID: -1041986897740522079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_run_sheet_415x479_12
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1090
+        width: 415
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8d1c4ada82cf970800000000000000
+      internalID: 8789945298978986190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_run_sheet_415x479_13
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 1090
+        width: 415
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1400199e7887b0950800000000000000
+      internalID: 6416354619253915713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_run_sheet_415x479_14
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 1090
+        width: 415
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3261f9d51b880a9d0800000000000000
+      internalID: -2765059875844188637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_run_sheet_415x479_15
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 1090
+        width: 415
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4ec9d62a1100f00800000000000000
+      internalID: 1080883299890291912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_run_sheet_415x479_16
+      rect:
+        serializedVersion: 2
+        x: 2905
+        y: 1090
+        width: 415
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d622eb33de5534750800000000000000
+      internalID: 6287963982003053165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_run_sheet_415x479_17
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 1090
+        width: 415
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402ce80d105b3b940800000000000000
+      internalID: 5310787404998558212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_run_sheet_415x479_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 611
+        width: 415
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c9423cb6b41b0b0800000000000000
+      internalID: -5714703525948908496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_run_sheet_415x479_19
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 611
+        width: 415
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159f0daac4ae9baf0800000000000000
+      internalID: -380015078531860143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_run_sheet_415x479_20
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 611
+        width: 415
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad761e090fb1d910800000000000000
+      internalID: 1860478166692691361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_run_sheet_415x479_21
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 611
+        width: 415
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ab4fec6322815b0800000000000000
+      internalID: -5397526534607816142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_run_sheet_415x479_22
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 611
+        width: 415
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c93fbd25da876b0800000000000000
+      internalID: -5298294390212289406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_run_sheet_415x479_23
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 611
+        width: 415
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f0e34d394073aa0800000000000000
+      internalID: -6181466930575175835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9f0665cf3df6bf842aa67d8da3665787
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

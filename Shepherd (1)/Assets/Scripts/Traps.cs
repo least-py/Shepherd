@@ -2,8 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Fallen : MonoBehaviour
+public class Traps : MonoBehaviour
 {
+    public float trapptime = 30f;
+    public bool destroy = false;
     // Start is called before the first frame update
     void Start()
     {
@@ -13,12 +15,8 @@ public class Fallen : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (destroy)
+            Destroy(this.gameObject);
+    }
 
-    }
-    void OnTriggerEnter(Collider other)
-    {
-        
-          
-        
-    }
 }

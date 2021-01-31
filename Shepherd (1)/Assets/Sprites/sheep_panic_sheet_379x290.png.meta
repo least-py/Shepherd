@@ -1,0 +1,680 @@
+fileFormatVersion: 2
+guid: 5f306fdca17f1a24b8dc0eaf6a4c6c6a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1638053681860481920
+    second: sheep_panic_sheet_379x290_0
+  - first:
+      213: -6960167760230827902
+    second: sheep_panic_sheet_379x290_1
+  - first:
+      213: 6901709297117524710
+    second: sheep_panic_sheet_379x290_2
+  - first:
+      213: -2549299643277302335
+    second: sheep_panic_sheet_379x290_3
+  - first:
+      213: -7844721684707495229
+    second: sheep_panic_sheet_379x290_4
+  - first:
+      213: -4698656251023680054
+    second: sheep_panic_sheet_379x290_5
+  - first:
+      213: -199955840141937332
+    second: sheep_panic_sheet_379x290_6
+  - first:
+      213: -7538123827704661242
+    second: sheep_panic_sheet_379x290_7
+  - first:
+      213: -6666240108679249717
+    second: sheep_panic_sheet_379x290_8
+  - first:
+      213: -4978766083810812987
+    second: sheep_panic_sheet_379x290_9
+  - first:
+      213: -5603017900300471483
+    second: sheep_panic_sheet_379x290_10
+  - first:
+      213: 873024417565858573
+    second: sheep_panic_sheet_379x290_11
+  - first:
+      213: -3769284620167428500
+    second: sheep_panic_sheet_379x290_12
+  - first:
+      213: 3205238942912733883
+    second: sheep_panic_sheet_379x290_13
+  - first:
+      213: -5136144829305451295
+    second: sheep_panic_sheet_379x290_14
+  - first:
+      213: -8315407424877763353
+    second: sheep_panic_sheet_379x290_15
+  - first:
+      213: 3104864503412026341
+    second: sheep_panic_sheet_379x290_16
+  - first:
+      213: 5645798483158245842
+    second: sheep_panic_sheet_379x290_17
+  - first:
+      213: 4867187841027609683
+    second: sheep_panic_sheet_379x290_18
+  - first:
+      213: -3327435141219037959
+    second: sheep_panic_sheet_379x290_19
+  - first:
+      213: 629471682099873204
+    second: sheep_panic_sheet_379x290_20
+  - first:
+      213: 2471453715849049577
+    second: sheep_panic_sheet_379x290_21
+  - first:
+      213: 7736445237034172915
+    second: sheep_panic_sheet_379x290_22
+  - first:
+      213: -1906725821595949894
+    second: sheep_panic_sheet_379x290_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sheep_panic_sheet_379x290_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1758
+        width: 379
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c6fa9ead67449e0800000000000000
+      internalID: -1638053681860481920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_panic_sheet_379x290_1
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1758
+        width: 379
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288b0527c44886f90800000000000000
+      internalID: -6960167760230827902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_panic_sheet_379x290_2
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1758
+        width: 379
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e273b5f90cc7cf50800000000000000
+      internalID: 6901709297117524710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_panic_sheet_379x290_3
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1758
+        width: 379
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c52d603b711f9cd0800000000000000
+      internalID: -2549299643277302335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_panic_sheet_379x290_4
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 1758
+        width: 379
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2b43dd033f12390800000000000000
+      internalID: -7844721684707495229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_panic_sheet_379x290_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1468
+        width: 379
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd9014c8050bceb0800000000000000
+      internalID: -4698656251023680054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_panic_sheet_379x290_6
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1468
+        width: 379
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c453399093d993df0800000000000000
+      internalID: -199955840141937332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_panic_sheet_379x290_7
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1468
+        width: 379
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b71c04154336790800000000000000
+      internalID: -7538123827704661242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_panic_sheet_379x290_8
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1468
+        width: 379
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc046beb0f1cc73a0800000000000000
+      internalID: -6666240108679249717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_panic_sheet_379x290_9
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 1468
+        width: 379
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb91ba10aed7eab0800000000000000
+      internalID: -4978766083810812987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_panic_sheet_379x290_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1178
+        width: 379
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5437f6ed7e41e32b0800000000000000
+      internalID: -5603017900300471483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_panic_sheet_379x290_11
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1178
+        width: 379
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b5141151b9d1c00800000000000000
+      internalID: 873024417565858573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_panic_sheet_379x290_12
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1178
+        width: 379
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66c395cb9fc0bbc0800000000000000
+      internalID: -3769284620167428500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_panic_sheet_379x290_13
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1178
+        width: 379
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2ef8426db4b7c20800000000000000
+      internalID: 3205238942912733883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_panic_sheet_379x290_14
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 1178
+        width: 379
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec0a4e7d7fb8b8b0800000000000000
+      internalID: -5136144829305451295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_panic_sheet_379x290_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 888
+        width: 379
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4e385010db99c80800000000000000
+      internalID: -8315407424877763353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_panic_sheet_379x290_16
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 888
+        width: 379
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebe799c0d1b61b20800000000000000
+      internalID: 3104864503412026341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_panic_sheet_379x290_17
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 888
+        width: 379
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d12616cec7e95e40800000000000000
+      internalID: 5645798483158245842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_panic_sheet_379x290_18
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 888
+        width: 379
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3541d8fcd89bb8340800000000000000
+      internalID: 4867187841027609683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_panic_sheet_379x290_19
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 888
+        width: 379
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fccc7a5e5392d1d0800000000000000
+      internalID: -3327435141219037959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_panic_sheet_379x290_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 598
+        width: 379
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b50bb7e8255cb800800000000000000
+      internalID: 629471682099873204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_panic_sheet_379x290_21
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 598
+        width: 379
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5700c6f0e5c4220800000000000000
+      internalID: 2471453715849049577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_panic_sheet_379x290_22
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 598
+        width: 379
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f14fa124ff5d5b60800000000000000
+      internalID: 7736445237034172915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_panic_sheet_379x290_23
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 598
+        width: 379
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab465bfa7f2f985e0800000000000000
+      internalID: -1906725821595949894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9a37dcd7e7df6544d8316e23607b9c98
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

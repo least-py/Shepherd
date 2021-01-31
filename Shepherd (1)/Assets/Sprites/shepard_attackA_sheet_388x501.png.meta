@@ -1,0 +1,920 @@
+fileFormatVersion: 2
+guid: e5a292fbc55ad0e42b80b438b8bc0bc8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2714124180046736265
+    second: shepard_attackA_sheet_388x501_0
+  - first:
+      213: -2118679609212911582
+    second: shepard_attackA_sheet_388x501_1
+  - first:
+      213: -1951145086139666516
+    second: shepard_attackA_sheet_388x501_2
+  - first:
+      213: 998761236746218464
+    second: shepard_attackA_sheet_388x501_3
+  - first:
+      213: -2249647518645055269
+    second: shepard_attackA_sheet_388x501_4
+  - first:
+      213: -8029694167302823612
+    second: shepard_attackA_sheet_388x501_5
+  - first:
+      213: 1662963994384773547
+    second: shepard_attackA_sheet_388x501_6
+  - first:
+      213: -8928210024469913837
+    second: shepard_attackA_sheet_388x501_7
+  - first:
+      213: -5267139671367056813
+    second: shepard_attackA_sheet_388x501_8
+  - first:
+      213: 1133013319857077689
+    second: shepard_attackA_sheet_388x501_9
+  - first:
+      213: -4918667443901178313
+    second: shepard_attackA_sheet_388x501_10
+  - first:
+      213: 6983091826604546014
+    second: shepard_attackA_sheet_388x501_11
+  - first:
+      213: 3310317887731356519
+    second: shepard_attackA_sheet_388x501_12
+  - first:
+      213: -8119051080203043551
+    second: shepard_attackA_sheet_388x501_13
+  - first:
+      213: -2112633903736791024
+    second: shepard_attackA_sheet_388x501_14
+  - first:
+      213: -2444771443624455421
+    second: shepard_attackA_sheet_388x501_15
+  - first:
+      213: -930061537574784544
+    second: shepard_attackA_sheet_388x501_16
+  - first:
+      213: 9140500337967522202
+    second: shepard_attackA_sheet_388x501_17
+  - first:
+      213: -1209929198230151263
+    second: shepard_attackA_sheet_388x501_18
+  - first:
+      213: -4874168020848887416
+    second: shepard_attackA_sheet_388x501_19
+  - first:
+      213: 1724932712344678260
+    second: shepard_attackA_sheet_388x501_20
+  - first:
+      213: -911591709302884630
+    second: shepard_attackA_sheet_388x501_21
+  - first:
+      213: -2414368695877781353
+    second: shepard_attackA_sheet_388x501_22
+  - first:
+      213: -6418075714588845540
+    second: shepard_attackA_sheet_388x501_23
+  - first:
+      213: -7358428656698096099
+    second: shepard_attackA_sheet_388x501_24
+  - first:
+      213: -813900898328290328
+    second: shepard_attackA_sheet_388x501_25
+  - first:
+      213: 1900936928066250260
+    second: shepard_attackA_sheet_388x501_26
+  - first:
+      213: 3110322327460491403
+    second: shepard_attackA_sheet_388x501_27
+  - first:
+      213: 2031286964549710166
+    second: shepard_attackA_sheet_388x501_28
+  - first:
+      213: 118852642880697170
+    second: shepard_attackA_sheet_388x501_29
+  - first:
+      213: -1227057140242026407
+    second: shepard_attackA_sheet_388x501_30
+  - first:
+      213: 5027872782660266003
+    second: shepard_attackA_sheet_388x501_31
+  - first:
+      213: 887204443023875307
+    second: shepard_attackA_sheet_388x501_32
+  - first:
+      213: 4521233034039693706
+    second: shepard_attackA_sheet_388x501_33
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shepard_attackA_sheet_388x501_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1547
+        width: 388
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bebfbcf818aa520800000000000000
+      internalID: 2714124180046736265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_attackA_sheet_388x501_1
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1547
+        width: 388
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2204004ee10f892e0800000000000000
+      internalID: -2118679609212911582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_attackA_sheet_388x501_2
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1547
+        width: 388
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf656bb1e32ce4e0800000000000000
+      internalID: -1951145086139666516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_attackA_sheet_388x501_3
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1547
+        width: 388
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb20bb9d005cdd00800000000000000
+      internalID: 998761236746218464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_attackA_sheet_388x501_4
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1547
+        width: 388
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0925d3085a7c0e0800000000000000
+      internalID: -2249647518645055269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_attackA_sheet_388x501_5
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 1547
+        width: 388
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441a3eea2bbc09090800000000000000
+      internalID: -8029694167302823612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_attackA_sheet_388x501_6
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 1547
+        width: 388
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1b19f21f8041710800000000000000
+      internalID: 1662963994384773547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_attackA_sheet_388x501_7
+      rect:
+        serializedVersion: 2
+        x: 2716
+        y: 1547
+        width: 388
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f93635940a81480800000000000000
+      internalID: -8928210024469913837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_attackA_sheet_388x501_8
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 1547
+        width: 388
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3528cc9106c57e6b0800000000000000
+      internalID: -5267139671367056813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_attackA_sheet_388x501_9
+      rect:
+        serializedVersion: 2
+        x: 3492
+        y: 1547
+        width: 388
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdfdd78c9549bf00800000000000000
+      internalID: 1133013319857077689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_attackA_sheet_388x501_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1046
+        width: 388
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73eddfd15026dbbb0800000000000000
+      internalID: -4918667443901178313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_attackA_sheet_388x501_11
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1046
+        width: 388
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed792bea40de8e060800000000000000
+      internalID: 6983091826604546014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_attackA_sheet_388x501_12
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1046
+        width: 388
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76359df749c90fd20800000000000000
+      internalID: 3310317887731356519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_attackA_sheet_388x501_13
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1046
+        width: 388
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dfe332f06535f80800000000000000
+      internalID: -8119051080203043551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_attackA_sheet_388x501_14
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1046
+        width: 388
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010625368aa6ea2e0800000000000000
+      internalID: -2112633903736791024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_attackA_sheet_388x501_15
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 1046
+        width: 388
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303deb1335d621ed0800000000000000
+      internalID: -2444771443624455421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_attackA_sheet_388x501_16
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 1046
+        width: 388
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1f99195f1c713f0800000000000000
+      internalID: -930061537574784544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_attackA_sheet_388x501_17
+      rect:
+        serializedVersion: 2
+        x: 2716
+        y: 1046
+        width: 388
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9164e101a499de70800000000000000
+      internalID: 9140500337967522202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_attackA_sheet_388x501_18
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 1046
+        width: 388
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af5e100ec7753fe0800000000000000
+      internalID: -1209929198230151263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_attackA_sheet_388x501_19
+      rect:
+        serializedVersion: 2
+        x: 3492
+        y: 1046
+        width: 388
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889bbbd620a7b5cb0800000000000000
+      internalID: -4874168020848887416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_attackA_sheet_388x501_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 545
+        width: 388
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f61cca92130f710800000000000000
+      internalID: 1724932712344678260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_attackA_sheet_388x501_21
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 545
+        width: 388
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae67fc29b206953f0800000000000000
+      internalID: -911591709302884630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_attackA_sheet_388x501_22
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 545
+        width: 388
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798b16586707e7ed0800000000000000
+      internalID: -2414368695877781353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_attackA_sheet_388x501_23
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 545
+        width: 388
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ade5a542a6ee6a0800000000000000
+      internalID: -6418075714588845540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_attackA_sheet_388x501_24
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 545
+        width: 388
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1684749f1c91e990800000000000000
+      internalID: -7358428656698096099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_attackA_sheet_388x501_25
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 545
+        width: 388
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb55c8f17174b4f0800000000000000
+      internalID: -813900898328290328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_attackA_sheet_388x501_26
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 545
+        width: 388
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416afc1801c716a10800000000000000
+      internalID: 1900936928066250260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_attackA_sheet_388x501_27
+      rect:
+        serializedVersion: 2
+        x: 2716
+        y: 545
+        width: 388
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80bf397da51a2b20800000000000000
+      internalID: 3110322327460491403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_attackA_sheet_388x501_28
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 545
+        width: 388
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651fdd66bb4903c10800000000000000
+      internalID: 2031286964549710166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_attackA_sheet_388x501_29
+      rect:
+        serializedVersion: 2
+        x: 3492
+        y: 545
+        width: 388
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253358759df36a100800000000000000
+      internalID: 118852642880697170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_attackA_sheet_388x501_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 388
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95074cc380e98fee0800000000000000
+      internalID: -1227057140242026407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_attackA_sheet_388x501_31
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 44
+        width: 388
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318e15238a796c540800000000000000
+      internalID: 5027872782660266003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_attackA_sheet_388x501_32
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 44
+        width: 388
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec16958dbbff4c00800000000000000
+      internalID: 887204443023875307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_attackA_sheet_388x501_33
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 44
+        width: 388
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8192bc6d75aebe30800000000000000
+      internalID: 4521233034039693706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 397dd534e25009948a527e9b81a2362a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

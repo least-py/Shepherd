@@ -1,0 +1,1880 @@
+fileFormatVersion: 2
+guid: a30c3767a39685d4db5e3610b4211d7d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8242052074624750801
+    second: shepard_idle_sheet_253x473_0
+  - first:
+      213: -6349964730747172174
+    second: shepard_idle_sheet_253x473_1
+  - first:
+      213: -3565592449929952099
+    second: shepard_idle_sheet_253x473_2
+  - first:
+      213: -5018380452111937813
+    second: shepard_idle_sheet_253x473_3
+  - first:
+      213: -5849833696862085805
+    second: shepard_idle_sheet_253x473_4
+  - first:
+      213: -2503829224636157880
+    second: shepard_idle_sheet_253x473_5
+  - first:
+      213: 4692493875531663527
+    second: shepard_idle_sheet_253x473_6
+  - first:
+      213: 916009172636950066
+    second: shepard_idle_sheet_253x473_7
+  - first:
+      213: 5773442932310142276
+    second: shepard_idle_sheet_253x473_8
+  - first:
+      213: -5477682405980689115
+    second: shepard_idle_sheet_253x473_9
+  - first:
+      213: -1388159346737405991
+    second: shepard_idle_sheet_253x473_10
+  - first:
+      213: 6229253308846943277
+    second: shepard_idle_sheet_253x473_11
+  - first:
+      213: 5683569693723915355
+    second: shepard_idle_sheet_253x473_12
+  - first:
+      213: -1988886948350233251
+    second: shepard_idle_sheet_253x473_13
+  - first:
+      213: 1291874946610862559
+    second: shepard_idle_sheet_253x473_14
+  - first:
+      213: 9222717315967611792
+    second: shepard_idle_sheet_253x473_15
+  - first:
+      213: 6806152871931706012
+    second: shepard_idle_sheet_253x473_16
+  - first:
+      213: 8522847080006730487
+    second: shepard_idle_sheet_253x473_17
+  - first:
+      213: -4423587782094833729
+    second: shepard_idle_sheet_253x473_18
+  - first:
+      213: -1936926305648645165
+    second: shepard_idle_sheet_253x473_19
+  - first:
+      213: 7356444838975455924
+    second: shepard_idle_sheet_253x473_20
+  - first:
+      213: 5001190454757213068
+    second: shepard_idle_sheet_253x473_21
+  - first:
+      213: 7290941985797293245
+    second: shepard_idle_sheet_253x473_22
+  - first:
+      213: -8177720069510358239
+    second: shepard_idle_sheet_253x473_23
+  - first:
+      213: -142473545835401637
+    second: shepard_idle_sheet_253x473_24
+  - first:
+      213: -4715167529757828949
+    second: shepard_idle_sheet_253x473_25
+  - first:
+      213: 5178413157042010968
+    second: shepard_idle_sheet_253x473_26
+  - first:
+      213: 7386302952388500816
+    second: shepard_idle_sheet_253x473_27
+  - first:
+      213: -6526732998952586270
+    second: shepard_idle_sheet_253x473_28
+  - first:
+      213: -6338316298363998592
+    second: shepard_idle_sheet_253x473_29
+  - first:
+      213: -2100397702731992896
+    second: shepard_idle_sheet_253x473_30
+  - first:
+      213: -2363237579578992265
+    second: shepard_idle_sheet_253x473_31
+  - first:
+      213: 3894271450293266312
+    second: shepard_idle_sheet_253x473_32
+  - first:
+      213: 7466929139745591910
+    second: shepard_idle_sheet_253x473_33
+  - first:
+      213: 6392350395878639756
+    second: shepard_idle_sheet_253x473_34
+  - first:
+      213: -5875141725067204570
+    second: shepard_idle_sheet_253x473_35
+  - first:
+      213: -1789137558935123733
+    second: shepard_idle_sheet_253x473_36
+  - first:
+      213: -8668894343918486787
+    second: shepard_idle_sheet_253x473_37
+  - first:
+      213: -3378300076920547517
+    second: shepard_idle_sheet_253x473_38
+  - first:
+      213: -986206008747789879
+    second: shepard_idle_sheet_253x473_39
+  - first:
+      213: 4737296157249796117
+    second: shepard_idle_sheet_253x473_40
+  - first:
+      213: -5736039151756103189
+    second: shepard_idle_sheet_253x473_41
+  - first:
+      213: 425740031383753544
+    second: shepard_idle_sheet_253x473_42
+  - first:
+      213: 1550529524708312536
+    second: shepard_idle_sheet_253x473_43
+  - first:
+      213: -5602255554954447627
+    second: shepard_idle_sheet_253x473_44
+  - first:
+      213: -3250464113439413463
+    second: shepard_idle_sheet_253x473_45
+  - first:
+      213: 5130094166091630599
+    second: shepard_idle_sheet_253x473_46
+  - first:
+      213: 2521754869800288422
+    second: shepard_idle_sheet_253x473_47
+  - first:
+      213: 1409807246817589846
+    second: shepard_idle_sheet_253x473_48
+  - first:
+      213: -4507151334759544967
+    second: shepard_idle_sheet_253x473_49
+  - first:
+      213: 9211167512676436153
+    second: shepard_idle_sheet_253x473_50
+  - first:
+      213: -2137992350644078786
+    second: shepard_idle_sheet_253x473_51
+  - first:
+      213: 4047286937768665924
+    second: shepard_idle_sheet_253x473_52
+  - first:
+      213: 2261201457930951412
+    second: shepard_idle_sheet_253x473_53
+  - first:
+      213: -1400658709132881922
+    second: shepard_idle_sheet_253x473_54
+  - first:
+      213: -5076345422863514847
+    second: shepard_idle_sheet_253x473_55
+  - first:
+      213: 6537052983176099014
+    second: shepard_idle_sheet_253x473_56
+  - first:
+      213: 2017822559879311669
+    second: shepard_idle_sheet_253x473_57
+  - first:
+      213: -2298172185403412740
+    second: shepard_idle_sheet_253x473_58
+  - first:
+      213: 2202953646195389015
+    second: shepard_idle_sheet_253x473_59
+  - first:
+      213: -1948370556498206001
+    second: shepard_idle_sheet_253x473_60
+  - first:
+      213: -6741507502222762505
+    second: shepard_idle_sheet_253x473_61
+  - first:
+      213: -3420649103082302709
+    second: shepard_idle_sheet_253x473_62
+  - first:
+      213: -9073646407029867813
+    second: shepard_idle_sheet_253x473_63
+  - first:
+      213: -4176025354645852147
+    second: shepard_idle_sheet_253x473_64
+  - first:
+      213: -1720556616358507065
+    second: shepard_idle_sheet_253x473_65
+  - first:
+      213: -8531099094536025734
+    second: shepard_idle_sheet_253x473_66
+  - first:
+      213: 8180050388678500822
+    second: shepard_idle_sheet_253x473_67
+  - first:
+      213: 8461963681592146715
+    second: shepard_idle_sheet_253x473_68
+  - first:
+      213: 1888662503183578038
+    second: shepard_idle_sheet_253x473_69
+  - first:
+      213: 2177967301023322335
+    second: shepard_idle_sheet_253x473_70
+  - first:
+      213: 121481928859925337
+    second: shepard_idle_sheet_253x473_71
+  - first:
+      213: -3077250214098911917
+    second: shepard_idle_sheet_253x473_72
+  - first:
+      213: 1909769581150584232
+    second: shepard_idle_sheet_253x473_73
+  - first:
+      213: -2440832796869173955
+    second: shepard_idle_sheet_253x473_74
+  - first:
+      213: 7642236104292904917
+    second: shepard_idle_sheet_253x473_75
+  - first:
+      213: -1193088886265565391
+    second: shepard_idle_sheet_253x473_76
+  - first:
+      213: -6684206906319595831
+    second: shepard_idle_sheet_253x473_77
+  - first:
+      213: 3680709619061123849
+    second: shepard_idle_sheet_253x473_78
+  - first:
+      213: 3869236450205423674
+    second: shepard_idle_sheet_253x473_79
+  - first:
+      213: -7336613294085720484
+    second: shepard_idle_sheet_253x473_80
+  - first:
+      213: -3089448890648041373
+    second: shepard_idle_sheet_253x473_81
+  - first:
+      213: -4717728264602395922
+    second: shepard_idle_sheet_253x473_82
+  - first:
+      213: -5777872689810031040
+    second: shepard_idle_sheet_253x473_83
+  - first:
+      213: -5041392826957331666
+    second: shepard_idle_sheet_253x473_84
+  - first:
+      213: -8466215971601351664
+    second: shepard_idle_sheet_253x473_85
+  - first:
+      213: -8594964260890132459
+    second: shepard_idle_sheet_253x473_86
+  - first:
+      213: -6769562708283717297
+    second: shepard_idle_sheet_253x473_87
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3620
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b68bf6e495e9d80800000000000000
+      internalID: -8242052074624750801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_1
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 3620
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba4e8f88b460e7a0800000000000000
+      internalID: -6349964730747172174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_2
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 3620
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d944c10ee88748ec0800000000000000
+      internalID: -3565592449929952099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_3
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 3620
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee8a1c31912b5ab0800000000000000
+      internalID: -5018380452111937813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_4
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 3620
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ddc671f3731dea0800000000000000
+      internalID: -5849833696862085805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_5
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 3620
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840f157069c904dd0800000000000000
+      internalID: -2503829224636157880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_6
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 3620
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8c2c161561f1140800000000000000
+      internalID: 4692493875531663527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_7
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 3620
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e56024d7156bc00800000000000000
+      internalID: 916009172636950066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_8
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 3620
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44de55702c36f1050800000000000000
+      internalID: 5773442932310142276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_9
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 3620
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d2d1fafdc5bf3b0800000000000000
+      internalID: -5477682405980689115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_10
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 3620
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df141ecd644cbce0800000000000000
+      internalID: -1388159346737405991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_11
+      rect:
+        serializedVersion: 2
+        x: 2783
+        y: 3620
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cafb161e0c27650800000000000000
+      internalID: 6229253308846943277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_12
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 3620
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54f69a068810ee40800000000000000
+      internalID: 5683569693723915355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_13
+      rect:
+        serializedVersion: 2
+        x: 3289
+        y: 3620
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d557c29abdd0664e0800000000000000
+      internalID: -1988886948350233251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_14
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 3620
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd997f65b69ade110800000000000000
+      internalID: 1291874946610862559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_15
+      rect:
+        serializedVersion: 2
+        x: 3795
+        y: 3620
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093f71ae88cadff70800000000000000
+      internalID: 9222717315967611792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3147
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a7e7af9ff447e50800000000000000
+      internalID: 6806152871931706012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_17
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 3147
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2c6c6634c374670800000000000000
+      internalID: 8522847080006730487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_18
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 3147
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7ba7f69524c92c0800000000000000
+      internalID: -4423587782094833729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_19
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 3147
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbe3bb89c7ae15e0800000000000000
+      internalID: -1936926305648645165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_20
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 3147
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b243ecda97571660800000000000000
+      internalID: 7356444838975455924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_21
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 3147
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83c0ed983cc76540800000000000000
+      internalID: 5001190454757213068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_22
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 3147
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4cd656b11ae2560800000000000000
+      internalID: 7290941985797293245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_23
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 3147
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b90489ce6e28e80800000000000000
+      internalID: -8177720069510358239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_24
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 3147
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e279e9015d50ef0800000000000000
+      internalID: -142473545835401637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_25
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 3147
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8145c1d1c509eb0800000000000000
+      internalID: -4715167529757828949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_26
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 3147
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bb2b5745b6dd740800000000000000
+      internalID: 5178413157042010968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_27
+      rect:
+        serializedVersion: 2
+        x: 2783
+        y: 3147
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d1980a66b618660800000000000000
+      internalID: 7386302952388500816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_28
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 3147
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e37c95eae26c65a0800000000000000
+      internalID: -6526732998952586270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_29
+      rect:
+        serializedVersion: 2
+        x: 3289
+        y: 3147
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ee1f198e6c908a0800000000000000
+      internalID: -6338316298363998592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_30
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 3147
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0fc91fa63e9d2e0800000000000000
+      internalID: -2100397702731992896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_31
+      rect:
+        serializedVersion: 2
+        x: 3795
+        y: 3147
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779175d31f7143fd0800000000000000
+      internalID: -2363237579578992265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2674
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887eca5504b3b0630800000000000000
+      internalID: 3894271450293266312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_33
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2674
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6629c89bd7cdf9760800000000000000
+      internalID: 7466929139745591910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_34
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 2674
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c888c2221d036b850800000000000000
+      internalID: 6392350395878639756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_35
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 2674
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6282b489abd477ea0800000000000000
+      internalID: -5875141725067204570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_36
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 2674
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8cc519ed4bb27e0800000000000000
+      internalID: -1789137558935123733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_37
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 2674
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa78532686e1b780800000000000000
+      internalID: -8668894343918486787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_38
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 2674
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347d972aafddd11d0800000000000000
+      internalID: -3378300076920547517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_39
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 2674
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c17b353cda4052f0800000000000000
+      internalID: -986206008747789879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_40
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 2674
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51872b871c14eb140800000000000000
+      internalID: 4737296157249796117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_41
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 2674
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be138d548ce7560b0800000000000000
+      internalID: -5736039151756103189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_42
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 2674
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843da498d4888e500800000000000000
+      internalID: 425740031383753544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_43
+      rect:
+        serializedVersion: 2
+        x: 2783
+        y: 2674
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d58efd3366948510800000000000000
+      internalID: 1550529524708312536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_44
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 2674
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f43bf9314ac042b0800000000000000
+      internalID: -5602255554954447627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_45
+      rect:
+        serializedVersion: 2
+        x: 3289
+        y: 2674
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92be94b4c1804e2d0800000000000000
+      internalID: -3250464113439413463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_46
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 2674
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7080232b671c13740800000000000000
+      internalID: 5130094166091630599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_47
+      rect:
+        serializedVersion: 2
+        x: 3795
+        y: 2674
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0ce0971b21ff220800000000000000
+      internalID: 2521754869800288422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2201
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a7554b834a09310800000000000000
+      internalID: 1409807246817589846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_49
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2201
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977cabeadb16371c0800000000000000
+      internalID: -4507151334759544967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_50
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 2201
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b882b7cc04a4df70800000000000000
+      internalID: 9211167512676436153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_51
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 2201
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e377b5fd8435452e0800000000000000
+      internalID: -2137992350644078786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_52
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 2201
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443a7c5c60ada2830800000000000000
+      internalID: 4047286937768665924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_53
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 2201
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fad191eeb6616f10800000000000000
+      internalID: 2261201457930951412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_54
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 2201
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effc396335cdf8ce0800000000000000
+      internalID: -1400658709132881922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_55
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 2201
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1234a09cbb23d89b0800000000000000
+      internalID: -5076345422863514847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_56
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 2201
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c47e1cad0748ba50800000000000000
+      internalID: 6537052983176099014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_57
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 2201
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53130656deeb00c10800000000000000
+      internalID: 2017822559879311669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_58
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 2201
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfea858d2904b10e0800000000000000
+      internalID: -2298172185403412740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_59
+      rect:
+        serializedVersion: 2
+        x: 2783
+        y: 2201
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752b0226ba6729e10800000000000000
+      internalID: 2202953646195389015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_60
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 2201
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc228114d4ff5f4e0800000000000000
+      internalID: -1948370556498206001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_61
+      rect:
+        serializedVersion: 2
+        x: 3289
+        y: 2201
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd916f05aa5172a0800000000000000
+      internalID: -6741507502222762505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_62
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 2201
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03558d93c96780d0800000000000000
+      internalID: -3420649103082302709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_63
+      rect:
+        serializedVersion: 2
+        x: 3795
+        y: 2201
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda3c73caaee31280800000000000000
+      internalID: -9073646407029867813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d003f43c017cb06c0800000000000000
+      internalID: -4176025354645852147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_65
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1728
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdc0029fda5f18e0800000000000000
+      internalID: -1720556616358507065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_66
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1728
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79068eb2927b9980800000000000000
+      internalID: -8531099094536025734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_67
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1728
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d16afd1d70658170800000000000000
+      internalID: 8180050388678500822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_68
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1728
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b7e8f822fee6570800000000000000
+      internalID: 8461963681592146715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_69
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 1728
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b37bd24a80e53a10800000000000000
+      internalID: 1888662503183578038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_70
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 1728
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd059ed88b1b93e10800000000000000
+      internalID: 2177967301023322335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shepard_idle_sheet_253x473_71
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 1728
+        width: 253
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b3350bb279fa100800000000000000
+      internalID: 121481928859925337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 46ca9da7382f3d84dae3e0c2d7d89fb6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

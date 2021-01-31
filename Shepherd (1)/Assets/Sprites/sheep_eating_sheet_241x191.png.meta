@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: 247a14f5b95a3c7499ee873fb14ae969
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4062636368316973398
+    second: sheep_eating_sheet_241x191_0
+  - first:
+      213: -7560504790825900399
+    second: sheep_eating_sheet_241x191_1
+  - first:
+      213: 4776966340997017774
+    second: sheep_eating_sheet_241x191_2
+  - first:
+      213: 8088494332582012139
+    second: sheep_eating_sheet_241x191_3
+  - first:
+      213: -7319172469160271218
+    second: sheep_eating_sheet_241x191_4
+  - first:
+      213: -6587948380075506135
+    second: sheep_eating_sheet_241x191_5
+  - first:
+      213: -74981221241782865
+    second: sheep_eating_sheet_241x191_6
+  - first:
+      213: -6901051718704788277
+    second: sheep_eating_sheet_241x191_7
+  - first:
+      213: -806372510271088019
+    second: sheep_eating_sheet_241x191_8
+  - first:
+      213: -5801524538754199484
+    second: sheep_eating_sheet_241x191_9
+  - first:
+      213: 7120460989627954385
+    second: sheep_eating_sheet_241x191_10
+  - first:
+      213: -1354909587719773067
+    second: sheep_eating_sheet_241x191_11
+  - first:
+      213: 4580362016489872851
+    second: sheep_eating_sheet_241x191_12
+  - first:
+      213: -4409474363897681744
+    second: sheep_eating_sheet_241x191_13
+  - first:
+      213: 3187738654718482866
+    second: sheep_eating_sheet_241x191_14
+  - first:
+      213: -6544156940874058161
+    second: sheep_eating_sheet_241x191_15
+  - first:
+      213: 3038174248395442976
+    second: sheep_eating_sheet_241x191_16
+  - first:
+      213: -8931547689694596007
+    second: sheep_eating_sheet_241x191_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sheep_eating_sheet_241x191_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 833
+        width: 241
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae32ee6fbd9e97c0800000000000000
+      internalID: -4062636368316973398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_eating_sheet_241x191_1
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 833
+        width: 241
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196ee2433f0b31790800000000000000
+      internalID: -7560504790825900399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_eating_sheet_241x191_2
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 833
+        width: 241
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0ff13e3913b4240800000000000000
+      internalID: 4776966340997017774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_eating_sheet_241x191_3
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 833
+        width: 241
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4af45adba104070800000000000000
+      internalID: 8088494332582012139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_eating_sheet_241x191_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 642
+        width: 241
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8222edfa631d6a90800000000000000
+      internalID: -7319172469160271218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_eating_sheet_241x191_5
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 642
+        width: 241
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9264dfe4ad7e294a0800000000000000
+      internalID: -6587948380075506135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_eating_sheet_241x191_6
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 642
+        width: 241
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadfe0ff9fc95fef0800000000000000
+      internalID: -74981221241782865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_eating_sheet_241x191_7
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 642
+        width: 241
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc8002760a8a30a0800000000000000
+      internalID: -6901051718704788277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_eating_sheet_241x191_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 451
+        width: 241
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ad6a869703fc4f0800000000000000
+      internalID: -806372510271088019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_eating_sheet_241x191_9
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 451
+        width: 241
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44018d77b28dc7fa0800000000000000
+      internalID: -5801524538754199484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_eating_sheet_241x191_10
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 451
+        width: 241
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4fcc35b85f0d260800000000000000
+      internalID: 7120460989627954385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_eating_sheet_241x191_11
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 451
+        width: 241
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574213998e4623de0800000000000000
+      internalID: -1354909587719773067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_eating_sheet_241x191_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 241
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd12977cf6b09f30800000000000000
+      internalID: 4580362016489872851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_eating_sheet_241x191_13
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 260
+        width: 241
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8efadad666ec2c0800000000000000
+      internalID: -4409474363897681744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_eating_sheet_241x191_14
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 260
+        width: 241
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9d647ca6f1d3c20800000000000000
+      internalID: 3187738654718482866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_eating_sheet_241x191_15
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 260
+        width: 241
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f467bc84feb7e25a0800000000000000
+      internalID: -6544156940874058161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_eating_sheet_241x191_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 241
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b8959c163c92a20800000000000000
+      internalID: 3038174248395442976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheep_eating_sheet_241x191_17
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 69
+        width: 241
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954fa4592b4cc0480800000000000000
+      internalID: -8931547689694596007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 046638c182a31e84db61e163d9a4f791
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
