@@ -211,7 +211,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentStates: 0
-  speed: 3
+  speed: 4.5
   jumpSpeed: 8
   gravity: 20
   playerCamera: {fileID: 3012483940472944152}

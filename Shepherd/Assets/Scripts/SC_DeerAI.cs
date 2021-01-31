@@ -320,7 +320,6 @@ public class SC_DeerAI : MonoBehaviour
 
     void OnTriggerEnter(Collider other)
     {
-        Debug.Log("DeerAI OnTriggerEnter");
         if (other.CompareTag("Die"))
         {
             kombi = new List<string> {};
@@ -342,7 +341,6 @@ public class SC_DeerAI : MonoBehaviour
     void TakeDamage(int damage)
     {
         health = health - damage;
-        Debug.Log(health);
         if (health <= 0)
         {
             Destroy(gameObject);

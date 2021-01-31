@@ -11,6 +11,7 @@ public class Start_Options : MonoBehaviour
     public GameObject Player;
     public GameObject Sheep;
     public GameObject wolf;
+    public GameObject Traps;
     public Text Sheep_counter_text;
 
     public int start_sheeps = 8; //Number of start sheeps
@@ -20,6 +21,9 @@ public class Start_Options : MonoBehaviour
     public float start_z = 20;  //Start position z
 
     public int number_sheeps = 0;
+
+    public float SpawnWolf = 30f;
+    public float SpawnTraps = 30f;
 
     // This script will simply instantiate the Prefab when the game starts.
     private void Start()
@@ -39,6 +43,25 @@ public class Start_Options : MonoBehaviour
 
     void Update()
     {
+        if (SpawnWolf > 0)
+        {
+            SpawnWolf -= Time.deltaTime;
+        }
+        else
+        {
+            Instantiate(wolf, new Vector3(UnityEngine.Random.Range(20f, 120f), start_y, UnityEngine.Random.Range(20f, 120f)), Quaternion.identity);
+            SpawnWolf = UnityEngine.Random.Range(30f, 45f);
+        }
+        if (SpawnTraps > 0)
+        {
+            SpawnTraps -= Time.deltaTime;
+        }
+        else
+        {
+            Instantiate(Traps, new Vector3(UnityEngine.Random.Range(20f, 120f), 0.001f, UnityEngine.Random.Range(20f, 120f)), Quaternion.identity);
+            SpawnTraps = UnityEngine.Random.Range(30f, 45f);
+        }
+
         number_sheeps = GameObject.FindGameObjectsWithTag("Sheep").Length;
         Sheep_counter_text.text = "Schafe: " + number_sheeps;
         if(number_sheeps <= 0)

@@ -52,8 +52,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentState: 3
   awarenessArea: 2.2
-  walkingSpeed: 0.3
-  runningSpeed: 1.5
+  walkingSpeed: 0.7
+  runningSpeed: 2.5
   animator: {fileID: 622502279744351154}
   babySheep: {fileID: 622502279744351156}
   pregnantCounter: 0

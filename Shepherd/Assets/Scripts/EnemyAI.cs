@@ -34,7 +34,7 @@ public class EnemyAI : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+        
         updateDestination();
         if (distanceToClosestSheep < distanz)
         {
