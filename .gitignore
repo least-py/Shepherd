@@ -5,15 +5,3 @@ Temp/
 
 
 
-
-public Vector3 babysize = new Vector3(0.4f, 0.4f, 0.4f);
-public Vector3 scaleChange = new Vector3(0.1f, 0.1f, 0.1f);
-public Vector3 sizeUpperBound = new Vector3(1.4f, 1.4f, 1.4f);
-
- transform.localScale = babysize;
- 
- if(transform.localScale.x < sizeUpperBound.x)
-                        {
-                            transform.localScale += scaleChange;
-                        }
-                        
